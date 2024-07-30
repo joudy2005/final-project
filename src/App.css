@@ -188,7 +188,7 @@ input, label{
 }
 
 .menu-items{
-  /* height: 400px; */
+   
   width: 350px;
   background: #a9c8be;
   border-radius: 8px;
@@ -221,7 +221,7 @@ footer section{
   padding: 10px 13%;
   display: flex;
   justify-content: space-between;
-  align-items: start;
+  align-items: flex-start;
 }
 
 .company-info img{
